@@ -9,6 +9,7 @@ export const products = [
     description:
       "Heavyweight oversized streetwear built for everyday movement.",
   },
+
   {
     id: 2,
     slug: "no-signal",
@@ -19,6 +20,7 @@ export const products = [
     description:
       "A heavyweight oversized silhouette with bold REVRSE graphics.",
   },
+
   {
     id: 3,
     slug: "rebel-india",
@@ -29,6 +31,7 @@ export const products = [
     description:
       "Built for those who create their own rules.",
   },
+
   {
     id: 4,
     slug: "after-dark",
@@ -39,6 +42,7 @@ export const products = [
     description:
       "Minimal streetwear with a heavyweight oversized fit.",
   },
+
   {
     id: 5,
     slug: "westbound",
@@ -49,6 +53,7 @@ export const products = [
     description:
       "240 GSM oversized cotton streetwear.",
   },
+
   {
     id: 6,
     slug: "origin",
