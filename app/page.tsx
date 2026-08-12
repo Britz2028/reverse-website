@@ -62,20 +62,20 @@ const products: Product[] = [
     id: 1,
     name: "REVRSE Oversized Black Tee",
     category: "Oversized T-Shirts",
-    price: 2499,
+    price: 1499,
     description:
       "A heavyweight oversized REVRSE tee designed for everyday movement, comfort and attitude.",
     images: [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1400&q=90",
-      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?auto=format&fit=crop&w=1400&q=90",
-      "https://images.unsplash.com/photo-1527719327859-7a2b0e3c7f31?auto=format&fit=crop&w=1400&q=90",
+      "https://images/revrsecrocprint.png",
+      "https://images/revrsecrocprint.png",
+      "https://images/revrsecrocprint.png",
     ],
   },
   {
     id: 2,
     name: "REVRSE Heavyweight White Tee",
     category: "Oversized T-Shirts",
-    price: 2499,
+    price: 1499,
     description:
       "Clean heavyweight construction with an oversized silhouette made for a relaxed streetwear fit.",
     images: [
